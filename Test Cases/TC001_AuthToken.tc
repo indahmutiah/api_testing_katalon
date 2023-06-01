@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_AuthToken</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5b27680-103e-4a43-b654-be6964bccccf</testCaseGuid>
+</TestCaseEntity>
