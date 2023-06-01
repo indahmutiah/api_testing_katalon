@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Booking_id</name>
+   <name>Get_Booking</name>
    <tag></tag>
-   <elementGuidId>c4bbf947-b901-4615-93cf-76780dfc1bd0</elementGuidId>
+   <elementGuidId>4dbe28b7-6319-428c-8327-d1402281b5bf</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <autoUpdateContent>true</autoUpdateContent>
    <connectionTimeout>0</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
-   <httpBodyContent>{
-  &quot;text&quot;: &quot;&quot;,
-  &quot;contentType&quot;: &quot;application/json&quot;,
-  &quot;charset&quot;: &quot;UTF-8&quot;
-}</httpBodyContent>
-   <httpBodyType>text</httpBodyType>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>Content-Type</name>
+      <name>Accept</name>
       <type>Main</type>
       <value>application/json</value>
-      <webElementGuid>2ca62e81-5711-4379-b532-b704f55a9841</webElementGuid>
+      <webElementGuid>e8a52f43-9c86-402f-8303-412a6a89058c</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.6.0</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://restful-booker.herokuapp.com/booking</restUrl>
+   <restUrl>https://restful-booker.herokuapp.com/booking/1</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
